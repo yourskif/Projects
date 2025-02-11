@@ -1,0 +1,22 @@
+﻿@model IEnumerable<UnivercityDepartment.Models.Student>
+
+<table>
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Faculty</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+
+        {
+            <tr>
+                <td>@student.FirstName @student.LastName</td>
+                <td>@student.Faculty.FacultyName</td> <!-- Зв'язок зі факультетом -->
+                <td>@student.Department.DepartmentName</td> <!-- Зв'язок з департаментом -->
+            </tr>
+        }
+    </tbody>
+</table>

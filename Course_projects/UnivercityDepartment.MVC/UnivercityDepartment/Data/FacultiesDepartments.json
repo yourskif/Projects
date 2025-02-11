@@ -1,0 +1,24 @@
+{
+  "Faculties": [
+    {
+      "Id": 17,
+      "FacultyName": "Факультет інженерії",
+      "Departments": [
+        {
+          "Id": 20,
+          "DepartmentName": "Кафедра комп'ютерних наук"
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "FacultyName": "Факультет мистецтв",
+      "Departments": [
+        {
+          "Id": 21,
+          "DepartmentName": "Кафедра образотворчого мистецтва"
+        }
+      ]
+    }
+  ]
+}

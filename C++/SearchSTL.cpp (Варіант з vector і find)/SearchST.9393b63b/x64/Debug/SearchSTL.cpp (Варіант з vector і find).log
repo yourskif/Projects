@@ -1,0 +1,3 @@
+﻿  SearchSTL.cpp (Варіант з vector і find).cpp
+C:\Users\Admin\source\repos\C++\.1\C++\SearchSTL.cpp (Варіант з vector і find)\SearchSTL.cpp (Варіант з vector і find).cpp(64,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SearchSTL.cpp (Варіант з vector і find).vcxproj -> C:\Users\Admin\source\repos\C++\.1\C++\SearchSTL.cpp (Варіант з vector і find)\x64\Debug\SearchSTL.cpp (Варіант з vector і find).exe

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<UnivercityDepartment.Models.Department>
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Назва департаменту</th>
+            <th>Кількість факультетів</th> <!-- Новий стовпець для кількості факультетів -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+
+        {
+            <tr>
+                <td>@department.DepartmentName</td> <!-- Виведення назви департаменту -->
+                <td>@department.Faculty?.FacultyName</td> <!-- Виведення факультету, якщо є -->
+            </tr>
+        }
+    </tbody>
+</table>

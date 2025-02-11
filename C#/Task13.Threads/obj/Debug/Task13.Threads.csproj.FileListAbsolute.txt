@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\bin\Debug\Task13.Threads.exe.config
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\bin\Debug\Task13.Threads.exe
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\bin\Debug\Task13.Threads.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\obj\Debug\Task13.Threads.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\obj\Debug\Task13.Threads.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\obj\Debug\Task13.Threads.exe
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\obj\Debug\Task13.Threads.pdb

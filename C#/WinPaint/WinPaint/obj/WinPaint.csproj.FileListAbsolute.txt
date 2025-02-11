@@ -1,0 +1,8 @@
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\obj\Debug\ResolveAssemblyReference.cache
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\obj\Debug\WinPaint.Form1.resources
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\obj\Debug\WinPaint.Properties.Resources.resources
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\obj\Debug\WinPaint.csproj.GenerateResource.Cache
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\bin\Debug\WinPaint.exe
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\bin\Debug\WinPaint.pdb
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\obj\Debug\WinPaint.exe
+D:\Serge\Projects\C#\LESSONS.C#\WinPaint\WinPaint\obj\Debug\WinPaint.pdb

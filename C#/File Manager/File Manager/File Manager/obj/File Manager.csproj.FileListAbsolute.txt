@@ -1,0 +1,7 @@
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\bin\Debug\File Manager.exe
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\bin\Debug\File Manager.pdb
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\obj\Debug\File Manager.exe
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\obj\Debug\File Manager.pdb
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\obj\Debug\Interop.Shell32.dll
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\obj\Debug\File Manager.csproj.ResolveComReference.cache
+D:\Serge\Projects\C#\LESSONS.C#\File Manager\File Manager\bin\Debug\Interop.Shell32.dll

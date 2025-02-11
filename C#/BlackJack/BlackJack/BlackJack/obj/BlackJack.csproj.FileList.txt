@@ -1,0 +1,4 @@
+bin\Debug\BlackJack.exe
+bin\Debug\BlackJack.pdb
+obj\Debug\BlackJack.exe
+obj\Debug\BlackJack.pdb

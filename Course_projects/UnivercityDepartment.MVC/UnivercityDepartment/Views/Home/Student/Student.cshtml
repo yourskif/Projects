@@ -1,0 +1,10 @@
+﻿@model IEnumerable<UnivercityDepartment.Models.Student>
+
+@foreach (var student in Model)
+
+{
+    <tr>
+        <td>@student.FirstName @student.LastName</td>  <!-- Виводимо FirstName та LastName -->
+        <td>@student.Department.DepartmentName</td>   <!-- Виводимо назву департаменту -->
+    </tr>
+}

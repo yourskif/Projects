@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\bin\Debug\File Manager.exe.config
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\bin\Debug\File Manager.exe
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\bin\Debug\File Manager.pdb
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\bin\Debug\Interop.Shell32.dll
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\obj\Debug\File Manager.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\obj\Debug\Interop.Shell32.dll
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\obj\Debug\File Manager.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\obj\Debug\File Manager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\obj\Debug\File Manager.exe
+C:\Users\Admin\source\repos\C#\Projects\File Manager\File Manager\File Manager\obj\Debug\File Manager.pdb
