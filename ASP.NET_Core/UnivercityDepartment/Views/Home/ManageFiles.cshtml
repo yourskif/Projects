@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "File Management";
+}
+
+<h1>File Management</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+
+{
+    <p style="color: green;">@ViewBag.Message</p>
+}
+
+<h2>Upload File</h2>
+<form asp-action="UploadFile" method="post" enctype="multipart/form-data">
+    <div>
+        <label for="file">Select file to upload:</label>
+        <input type="file" id="file" name="file" />
+    </div>
+    <button type="submit">Upload</button>
+</form>
+
+<hr />
+
+<h2>Download File</h2>
+<form asp-action="DownloadFile" method="get">
+    <div>
+        <label for="fileName">Enter file name to download:</label>
+        <input type="text" id="fileName" name="fileName" placeholder="example.json" />
+    </div>
+    <button type="submit">Download</button>
+</form>

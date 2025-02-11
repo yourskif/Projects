@@ -1,0 +1,255 @@
+{
+  "Faculties": [
+    {
+      "Name": "Факультет комп'ютерних наук",
+      "Departments": [
+        {
+          "Name": "Кафедра програмування",
+          "Teachers": [
+            {
+              "Subject": "Програмування",
+              "Parent": {
+                "FirstName": "Іван",
+                "LastName": "Шевченко",
+                "Children": [
+                  {
+                    "StudentId": 0,
+                    "Group": "К-321",
+                    "Department": {
+                      "Name": "Кафедра системного аналізу",
+                      "Teachers": [],
+                      "Students": [],
+                      "Head": null
+                    },
+                    "Phone": "123-456-7890",
+                    "ClassRepresentative": true,
+                    "GroupName": "К-321",
+                    "DepartmentName": "Кафедра системного аналізу",
+                    "FirstName": "Андрій",
+                    "LastName": "Шевченко",
+                    "MiddleName": "Ігорович",
+                    "Gender": 0,
+                    "Address": "Київ",
+                    "FullName": "Андрій Шевченко Ігорович"
+                  }
+                ],
+                "IsTeacher": true,
+                "FullName": "Іван Шевченко"
+              },
+              "FirstName": "Сергій",
+              "LastName": "Іваненко",
+              "MiddleName": "Олександрович",
+              "Gender": 0,
+              "Address": "Київ",
+              "FullName": "Сергій Іваненко Олександрович"
+            }
+          ],
+          "Students": [
+            {
+              "StudentId": 0,
+              "Group": "К-123",
+              "Parent": {
+                "FirstName": "Ольга",
+                "LastName": "Коваленко",
+                "Children": [],
+                "IsTeacher": false,
+                "FullName": "Ольга Коваленко"
+              },
+              "Phone": "098-765-4321",
+              "ClassRepresentative": false,
+              "GroupName": "К-123",
+              "DepartmentName": "Кафедра програмування",
+              "FirstName": "Анна",
+              "LastName": "Коваленко",
+              "MiddleName": "Сергіївна",
+              "Gender": 1,
+              "Address": "Львів",
+              "FullName": "Анна Коваленко Сергіївна"
+            }
+          ],
+          "Head": {
+            "Subject": "Програмування",
+            "Parent": {
+              "FirstName": "Іван",
+              "LastName": "Шевченко",
+              "Children": [
+                {
+                  "StudentId": 0,
+                  "Group": "К-321",
+                  "Department": {
+                    "Name": "Кафедра системного аналізу",
+                    "Teachers": [],
+                    "Students": [],
+                    "Head": null
+                  },
+                  "Phone": "123-456-7890",
+                  "ClassRepresentative": true,
+                  "GroupName": "К-321",
+                  "DepartmentName": "Кафедра системного аналізу",
+                  "FirstName": "Андрій",
+                  "LastName": "Шевченко",
+                  "MiddleName": "Ігорович",
+                  "Gender": 0,
+                  "Address": "Київ",
+                  "FullName": "Андрій Шевченко Ігорович"
+                }
+              ],
+              "IsTeacher": true,
+              "FullName": "Іван Шевченко"
+            },
+            "FirstName": "Сергій",
+            "LastName": "Іваненко",
+            "MiddleName": "Олександрович",
+            "Gender": 0,
+            "Address": "Київ",
+            "FullName": "Сергій Іваненко Олександрович"
+          }
+        },
+        {
+          "Name": "Кафедра системного аналізу",
+          "Teachers": [],
+          "Students": [
+            {
+              "StudentId": 0,
+              "Group": "К-321",
+              "Parent": {
+                "FirstName": "Іван",
+                "LastName": "Шевченко",
+                "Children": [],
+                "IsTeacher": true,
+                "FullName": "Іван Шевченко"
+              },
+              "Phone": "123-456-7890",
+              "ClassRepresentative": true,
+              "GroupName": "К-321",
+              "DepartmentName": "Кафедра системного аналізу",
+              "FirstName": "Андрій",
+              "LastName": "Шевченко",
+              "MiddleName": "Ігорович",
+              "Gender": 0,
+              "Address": "Київ",
+              "FullName": "Андрій Шевченко Ігорович"
+            }
+          ],
+          "Head": null
+        }
+      ]
+    },
+    {
+      "Name": "Факультет фізики",
+      "Departments": [
+        {
+          "Name": "Кафедра теоретичної фізики",
+          "Teachers": [
+            {
+              "Subject": "Фізика",
+              "Parent": {
+                "FirstName": "Марія",
+                "LastName": "Петренко",
+                "Children": [
+                  {
+                    "StudentId": 0,
+                    "Group": "Ф-888",
+                    "Phone": "444-444-4444",
+                    "ClassRepresentative": true,
+                    "GroupName": "Ф-888",
+                    "DepartmentName": "Кафедра теоретичної фізики",
+                    "FirstName": "Олег",
+                    "LastName": "Петренко",
+                    "MiddleName": "Миколайович",
+                    "Gender": 0,
+                    "Address": "Львів",
+                    "FullName": "Олег Петренко Миколайович"
+                  }
+                ],
+                "IsTeacher": true,
+                "FullName": "Марія Петренко"
+              },
+              "FirstName": "Марія",
+              "LastName": "Петренко",
+              "MiddleName": "Степанівна",
+              "Gender": 1,
+              "Address": "Львів",
+              "FullName": "Марія Петренко Степанівна"
+            }
+          ],
+          "Students": [
+            {
+              "StudentId": 0,
+              "Group": "Ф-777",
+              "Parent": {
+                "FirstName": "Unknown",
+                "LastName": "Unknown",
+                "Children": [],
+                "IsTeacher": false,
+                "FullName": "Unknown Unknown"
+              },
+              "Phone": "555-555-5555",
+              "ClassRepresentative": false,
+              "GroupName": "Ф-777",
+              "DepartmentName": "Кафедра теоретичної фізики",
+              "FirstName": "Дмитро",
+              "LastName": "Павленко",
+              "MiddleName": "Олександрович",
+              "Gender": 0,
+              "Address": "Харків",
+              "FullName": "Дмитро Павленко Олександрович"
+            },
+            {
+              "StudentId": 0,
+              "Group": "Ф-888",
+              "Parent": {
+                "FirstName": "Марія",
+                "LastName": "Петренко",
+                "Children": [],
+                "IsTeacher": true,
+                "FullName": "Марія Петренко"
+              },
+              "Phone": "444-444-4444",
+              "ClassRepresentative": true,
+              "GroupName": "Ф-888",
+              "DepartmentName": "Кафедра теоретичної фізики",
+              "FirstName": "Олег",
+              "LastName": "Петренко",
+              "MiddleName": "Миколайович",
+              "Gender": 0,
+              "Address": "Львів",
+              "FullName": "Олег Петренко Миколайович"
+            }
+          ],
+          "Head": {
+            "Subject": "Фізика",
+            "Parent": {
+              "FirstName": "Марія",
+              "LastName": "Петренко",
+              "Children": [
+                {
+                  "StudentId": 0,
+                  "Group": "Ф-888",
+                  "Phone": "444-444-4444",
+                  "ClassRepresentative": true,
+                  "GroupName": "Ф-888",
+                  "DepartmentName": "Кафедра теоретичної фізики",
+                  "FirstName": "Олег",
+                  "LastName": "Петренко",
+                  "MiddleName": "Миколайович",
+                  "Gender": 0,
+                  "Address": "Львів",
+                  "FullName": "Олег Петренко Миколайович"
+                }
+              ],
+              "IsTeacher": true,
+              "FullName": "Марія Петренко"
+            },
+            "FirstName": "Марія",
+            "LastName": "Петренко",
+            "MiddleName": "Степанівна",
+            "Gender": 1,
+            "Address": "Львів",
+            "FullName": "Марія Петренко Степанівна"
+          }
+        }
+      ]
+    }
+  ]
+}
