@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\C\u002B\u002B\\.1\\C\u002B\u002B\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5746DE53-D752-45D5-B97A-F31CEB001F5D}|SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).vcxproj|C:\\Users\\Admin\\source\\repos\\C\u002B\u002B\\.1\\C\u002B\u002B\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C)\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5746DE53-D752-45D5-B97A-F31CEB001F5D}|SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).vcxproj|solutionrelative:SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C\u002B\u002B\\.1\\C\u002B\u002B\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C)\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp",
+              "RelativeDocumentMoniker": "SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C\u002B\u002B\\.1\\C\u002B\u002B\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C)\\SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp",
+              "RelativeToolTip": "SortSequence.cpp (\u0412\u0430\u0440\u0456\u0430\u043D\u0442 \u0437 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\u043C \u0432\u0438\u0431\u043E\u0440\u043E\u043C).cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T09:48:32.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

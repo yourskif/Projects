@@ -7705,11 +7705,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\UnivecityDepartment.csproj",
       "projectName": "UnivecityDepartment",
       "projectPath": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\UnivecityDepartment.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\UnivecityDepartment.csproj",
+      "projectName": "UnivecityDepartment",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\UnivecityDepartment.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\obj\\",
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7742,8 +7750,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
+<<<<<<< HEAD
       },
       "SdkAnalysisLevel": "9.0.100"
+=======
+      }
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
     },
     "frameworks": {
       "net8.0": {
@@ -7801,7 +7813,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
       }
     }
   }

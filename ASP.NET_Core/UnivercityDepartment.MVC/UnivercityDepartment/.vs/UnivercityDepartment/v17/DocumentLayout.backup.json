@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\",
   "Documents": [
     {
@@ -32,6 +33,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|c:\\users\\admin\\source\\repos\\c#\\projects\\asp.net_core\\univercitydepartment.mvc\\univercitydepartment\\views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|c:\\users\\admin\\source\\repos\\csharp_starter_essential_pofessional\\csharp_course_projects\\univercitydepartment.mvc\\univercitydepartment\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|c:\\users\\admin\\source\\repos\\csharp_starter_essential_pofessional\\csharp_course_projects\\univercitydepartment.mvc\\univercitydepartment\\views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
       "RelativeMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|solutionrelative:views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,7 +53,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 12,
+=======
+          "SelectedChildIndex": 5,
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,6 +76,7 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+<<<<<<< HEAD
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
@@ -149,6 +165,14 @@
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\Views\\Teachers\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Teachers\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\Views\\Teachers\\Delete.cshtml",
+=======
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Views\\Teachers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Views\\Teachers\\Delete.cshtml",
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
               "RelativeToolTip": "Views\\Teachers\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -159,11 +183,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TeachersController.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\Controllers\\TeachersController.cs",
               "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\Controllers\\TeachersController.cs",
               "RelativeToolTip": "Controllers\\TeachersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAtwIAAAAAIAAAAAAAAAA==",
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T14:18:52.049Z",
               "EditorCaption": ""

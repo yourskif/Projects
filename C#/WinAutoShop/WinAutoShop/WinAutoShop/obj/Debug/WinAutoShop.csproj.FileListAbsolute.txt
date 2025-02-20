@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\bin\Debug\WinAutoShop.exe.config
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\bin\Debug\WinAutoShop.exe
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\bin\Debug\WinAutoShop.pdb
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Auto.resources
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.PersonalDates.resources
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Accessories.resources
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Report.resources
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Properties.Resources.resources
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.exe
+C:\Users\Admin\source\repos\C#\Projects\WinAutoShop\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.pdb

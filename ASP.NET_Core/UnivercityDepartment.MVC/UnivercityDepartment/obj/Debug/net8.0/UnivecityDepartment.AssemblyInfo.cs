@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnivecityDepartment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f770089c35737d667344ec00b6d504ed589eab86")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
 [assembly: System.Reflection.AssemblyProductAttribute("UnivecityDepartment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnivecityDepartment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

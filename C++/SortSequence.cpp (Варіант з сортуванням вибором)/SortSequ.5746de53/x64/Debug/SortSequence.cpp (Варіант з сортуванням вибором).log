@@ -1,0 +1,3 @@
+﻿  SortSequence.cpp (Варіант з сортуванням вибором).cpp
+C:\Users\Admin\source\repos\C++\.1\C++\SortSequence.cpp (Варіант з сортуванням вибором)\SortSequence.cpp (Варіант з сортуванням вибором).cpp(64,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortSequence.cpp (Варіант з сортуванням вибором).vcxproj -> C:\Users\Admin\source\repos\C++\.1\C++\SortSequence.cpp (Варіант з сортуванням вибором)\x64\Debug\SortSequence.cpp (Варіант з сортуванням вибором).exe

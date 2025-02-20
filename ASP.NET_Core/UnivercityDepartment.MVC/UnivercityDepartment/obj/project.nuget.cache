@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "tSjJF562d4E=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\C#\\Projects\\ASP.NET_Core\\UnivercityDepartment.MVC\\UnivercityDepartment\\UnivecityDepartment.csproj",
+=======
+  "dgSpecHash": "5IxVFIQOiII=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\UnivecityDepartment.csproj",
+>>>>>>> 127cb1402c24a36e580ce7bbe022610c18889c32
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

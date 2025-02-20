@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|c:\\users\\admin\\source\\repos\\csharp_starter_essential_pofessional\\csharp_course_projects\\univercitydepartment.mvc\\univercitydepartment\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|c:\\users\\admin\\source\\repos\\csharp_starter_essential_pofessional\\csharp_course_projects\\univercitydepartment.mvc\\univercitydepartment\\views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F351FC53-6795-4330-B339-9E7A9C744DCE}|UnivecityDepartment.csproj|solutionrelative:views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Views\\Teachers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Views\\Teachers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T14:22:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CSharp_Starter_Essential_Pofessional\\CSharp_Course_projects\\UnivercityDepartment.MVC\\UnivercityDepartment\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAtwIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:18:52.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\C#\Karta\bin\Debug\Karta.exe.config
+C:\Users\Admin\source\repos\C#\Karta\bin\Debug\Karta.exe
+C:\Users\Admin\source\repos\C#\Karta\bin\Debug\Karta.pdb
+C:\Users\Admin\source\repos\C#\Karta\obj\Debug\Karta.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C#\Karta\obj\Debug\Karta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#\Karta\obj\Debug\Karta.exe
+C:\Users\Admin\source\repos\C#\Karta\obj\Debug\Karta.pdb
