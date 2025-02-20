@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.pdb
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.Form1.resources
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\bin\Debug\WinPaint.exe.config
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\bin\Debug\WinPaint.exe
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\bin\Debug\WinPaint.pdb
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.Properties.Resources.resources
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#\Projects\WinPaint\WinPaint\obj\Debug\WinPaint.exe

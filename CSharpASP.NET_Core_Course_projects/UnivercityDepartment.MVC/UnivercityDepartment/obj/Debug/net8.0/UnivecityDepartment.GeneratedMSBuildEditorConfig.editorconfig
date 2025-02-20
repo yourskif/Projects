@@ -1,0 +1,159 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UnivecityDepartment
+build_property.RootNamespace = UnivecityDepartment
+build_property.ProjectDir = C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\UnivercityDepartment.MVC\UnivercityDepartment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\UnivercityDepartment.MVC\UnivercityDepartment
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Faculties/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Faculties/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Faculties/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Faculties/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Faculties/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/ManageFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VGaWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/Student/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50XFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/Teacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFjaGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Home/Teacher/Teacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFjaGVyXFRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/C\#/Projects/CSharpASP.NET_Core_Course_projects/UnivercityDepartment.MVC/UnivercityDepartment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gssnzwrtkq

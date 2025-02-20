@@ -1,0 +1,22 @@
+﻿@model IEnumerable<UnivercityDepartment.Models.Teacher>
+
+<table>
+    <thead>
+        <tr>
+            <th>Teacher Name</th>
+            <th>Faculty</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var teacher in Model)
+
+        {
+            <tr>
+                <td>@teacher.FirstName @teacher.LastName</td>
+                <td>@teacher.Faculty?.FacultyName</td>  <!-- Використовуємо оператор ?. для безпечного доступу -->
+                <td>@teacher.Department?.DepartmentName</td>  <!-- Використовуємо оператор ?. для безпечного доступу -->
+            </tr>
+        }
+    </tbody>
+</table>

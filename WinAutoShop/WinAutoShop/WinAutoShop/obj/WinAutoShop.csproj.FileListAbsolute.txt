@@ -1,0 +1,11 @@
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\bin\Debug\WinAutoShop.exe
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\bin\Debug\WinAutoShop.pdb
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\ResolveAssemblyReference.cache
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Properties.Resources.resources
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.csproj.GenerateResource.Cache
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.exe
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.pdb
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.PersonalDates.resources
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Accessories.resources
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Report.resources
+D:\Serge\Projects\C#\LESSONS.C#\WinAutoShop\WinAutoShop\obj\Debug\WinAutoShop.Auto.resources

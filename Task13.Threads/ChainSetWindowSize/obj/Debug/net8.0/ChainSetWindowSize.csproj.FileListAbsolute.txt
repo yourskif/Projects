@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\bin\Debug\net8.0\ChainSetWindowSize.exe
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\bin\Debug\net8.0\ChainSetWindowSize.deps.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\bin\Debug\net8.0\ChainSetWindowSize.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\bin\Debug\net8.0\ChainSetWindowSize.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\bin\Debug\net8.0\ChainSetWindowSize.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.sourcelink.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\refint\ChainSetWindowSize.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ChainSetWindowSize.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Essential\Task13.Threads\ChainSetWindowSize\obj\Debug\net8.0\ref\ChainSetWindowSize.dll

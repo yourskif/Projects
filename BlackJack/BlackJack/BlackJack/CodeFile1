@@ -1,0 +1,89 @@
+namespace Project1
+{
+    class Karta
+    {
+        public int a;
+        System.Random r = new System.Random();
+        public int Show()
+        {
+            a = r.Next(1, 11);
+            System.Console.WriteLine("Карта: " + a);
+            return a;
+        }
+        public int Show2()
+        {
+            a = r.Next(1, 11);
+            return a;
+        }
+    }
+
+    class MyClass
+    {
+
+        static int Main()
+        {
+            int yk = 0, y_n = 0;
+            Karta k = new Karta();
+            int suma_P = 0, suma_K = 0;
+            System.Console.WriteLine("Гра почалася.\n\n\nВашi карти: ");
+            for (int i = 0; i < 2; i++)
+            {
+                suma_P += k.Show();
+            }
+            System.Console.WriteLine("Сума ваших карт:     " + suma_P + "\n");
+
+            System.Console.WriteLine("Карти компютера: ");
+            for (int i = 0; i < 2; i++)
+            {
+                suma_K += k.Show();
+            }
+            System.Console.WriteLine("Сума карт компютера пiсля роздачi:   " + suma_K + "\n");
+
+            while (suma_K < 17)
+            { suma_K += k.Show2(); }
+            if (suma_K > 21) { suma_K = 19; }
+            while (yk != 123443)
+            {
+                if (suma_P > 21) { System.Console.WriteLine("\nВи програли!"); yk = 123443; }
+                else if (suma_P < 21)
+                {
+                    System.Console.WriteLine("Якщо ви хочете взяти ще одну карту нажмiть 1, якщо нi то 2.");
+                    yk = System.Convert.ToInt16(System.Console.ReadLine());
+                    if (yk == 1)
+                    { suma_P += k.Show(); System.Console.WriteLine("\nСума ваших карт:     " + suma_P); }
+                    if (yk == 2)
+                    {
+                        if (yk != 1 && yk != 2)
+                        { System.Console.WriteLine("\nВи ввели невiрну цифру. Попробуйте ще раз."); }
+                        else if (suma_P < suma_K)
+                        {
+                            System.Console.WriteLine("Сума карт компютера:   " + suma_K);
+                            System.Console.WriteLine("\nВи програли!"); yk = 123443;
+                        }
+                        else if (suma_P > suma_K)
+                        {
+                            System.Console.WriteLine("Сума карт компютера:   " + suma_K);
+                            System.Console.WriteLine("\nВи виграли!"); yk = 123443;
+                        }
+                        else
+                        {
+                            System.Console.WriteLine("Сума карт компютера:   " + suma_K);
+                            System.Console.WriteLine("\nНiчiя!"); yk = 123443;
+                        }
+                    }
+                    else { }
+                }
+                else { }
+            }
+            System.Console.WriteLine("\nХочете продовжити?(1-Так, 2-Нi)");
+            y_n = System.Convert.ToInt16(System.Console.ReadLine());
+            if (y_n == 1)
+            {
+                System.Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n");
+                return Main();
+            }
+            else { }
+            return 0;
+        }
+    }
+}

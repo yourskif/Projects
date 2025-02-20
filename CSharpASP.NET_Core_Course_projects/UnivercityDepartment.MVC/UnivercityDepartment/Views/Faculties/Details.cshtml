@@ -1,0 +1,35 @@
+@model UnivercityDepartment.Models.Faculty
+
+@{
+    ViewData["Title"] = "Faculty Details";
+}
+
+<h1>Faculty Details</h1>
+
+<div>
+    <h4>Faculty</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Faculty Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FacultyName
+        </dd>
+        <dt class="col-sm-2">
+            Departments
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (var department in Model.Departments)
+            {
+                <p>@department.DepartmentName</p>
+            }
+        </dd>
+    </dl>
+</div>
+
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.FacultyId" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</p>
+

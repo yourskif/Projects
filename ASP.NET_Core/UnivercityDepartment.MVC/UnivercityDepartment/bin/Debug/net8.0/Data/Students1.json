@@ -1,0 +1,44 @@
+{
+  "Students": [
+    {
+      "FirstName": "Анатолій",
+      "LastName": "Коваленко",
+      "MiddleName": "Іванович",
+      "Gender": 1,
+      "Address": "Київ",
+      "Group": "ІТ-101",
+      "FacultyId": 18,
+      "DepartmentId": 20
+    },
+    {
+      "FirstName": "Олена",
+      "LastName": "Петрівна",
+      "MiddleName": "Шевченко",
+      "Gender": 0,
+      "Address": "Львів",
+      "Group": "М-202",
+      "FacultyId": 18,
+      "DepartmentId": 20
+    },
+    {
+      "FirstName": "Володимир",
+      "LastName": "Бойко",
+      "MiddleName": "Анатолійович",
+      "Gender": 1,
+      "Address": "Харків",
+      "Group": "Ф-301",
+      "FacultyId": 19,
+      "DepartmentId": 21
+    },
+    {
+      "FirstName": "Катерина",
+      "LastName": "Савчук",
+      "MiddleName": "Вікторівна",
+      "Gender": 0,
+      "Address": "Запоріжжя",
+      "Group": "ІС-405",
+      "FacultyId": 17,
+      "DepartmentId": 19
+    }
+  ]
+}

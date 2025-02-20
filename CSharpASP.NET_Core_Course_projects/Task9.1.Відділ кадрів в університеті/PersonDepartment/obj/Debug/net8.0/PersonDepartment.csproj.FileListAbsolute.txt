@@ -1,0 +1,104 @@
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.exe
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.deps.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.sourcelink.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\refint\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\ref\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.exe
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.deps.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.sourcelink.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\refint\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\ref\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\10.10.24 23.30\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDe.6A971318.Up2Date
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.exe
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.deps.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.sourcelink.json
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDe.6A971318.Up2Date
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\refint\PersonDepartment.dll
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CSharp_Starter_Essential_Pofessional\CSharp_Course_projects\12.10.24 00.40\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\ref\PersonDepartment.dll
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.exe
+C:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.deps.json
+C:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.runtimeconfig.json
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.dll
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.pdb
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.AssemblyReference.cache
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfoInputs.cache
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfo.cs
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.CoreCompileInputs.cache
+C:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDe.6A971318.Up2Date
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.dll
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\refint\PersonDepartment.dll
+c:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.pdb
+C:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.genruntimeconfig.cache
+C:\Users\SK\source\repos\.source\12.10.24 02.10\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\ref\PersonDepartment.dll
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.AssemblyReference.cache
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfoInputs.cache
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfo.cs
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.CoreCompileInputs.cache
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.sourcelink.json
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.dll
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\refint\PersonDepartment.dll
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.pdb
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.exe
+C:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.deps.json
+C:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.runtimeconfig.json
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.dll
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.pdb
+c:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDe.6A971318.Up2Date
+C:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.genruntimeconfig.cache
+C:\Users\SK\source\repos\CSharp_Starter_Essential_Professional\CSharp_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\ref\PersonDepartment.dll
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.exe
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.deps.json
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.runtimeconfig.json
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.sourcelink.json
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDe.6A971318.Up2Date
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.dll
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\refint\PersonDepartment.dll
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.pdb
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\PersonDepartment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\C#\Projects\CSharpASP.NET_Core_Course_projects\Task9.1.Відділ кадрів в університеті\PersonDepartment\obj\Debug\net8.0\ref\PersonDepartment.dll
