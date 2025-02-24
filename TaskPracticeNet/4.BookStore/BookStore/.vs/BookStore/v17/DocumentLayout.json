@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T07:17:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwEQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T07:16:28.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Details.cshtml",
+              "ViewState": "AgIAALkAAAAAAAAAAAAqwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:35:40.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:46:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:14:51.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:13:11.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T01:02:01.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T00:57:59.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T00:57:46.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAuwPoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:49:17.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T00:46:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:43:11.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
