@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GMHhWCGCnZM=",
+  "dgSpecHash": "g7/jFGLbhUc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

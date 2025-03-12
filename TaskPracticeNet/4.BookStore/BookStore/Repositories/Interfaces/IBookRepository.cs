@@ -8,9 +8,12 @@ namespace BookStore.Repositories.Interfaces
     {
         Task<Book?> GetByIdAsync(int id);
         Task<IEnumerable<Book>> GetAllAsync();
-        Task AddAsync(Book book);
-        Task UpdateAsync(Book book);
+        Task AddAsync(Book entity);
+        Task UpdateAsync(Book entity);
         Task DeleteAsync(int id);
-        Task<IEnumerable<Book>> GetBooksByAuthorIdAsync(int authorId); // Додано новий метод
+        Task<IEnumerable<Book>> GetBooksByAuthorIdAsync(int authorId);
+        Task AddRangeAsync(IEnumerable<Book> books);
+
+        Task<bool> Exists(int id);
     }
 }

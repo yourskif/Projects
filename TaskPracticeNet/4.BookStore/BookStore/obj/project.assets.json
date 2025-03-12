@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\BookStore.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,54 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\.test\\14\\bookstore\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|c:\\users\\admin\\source\\repos\\c#\\c# studing myself\\taskpracticenet\\.01\\12.03.25-1\\taskpracticenet\\4.bookstore\\bookstore\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF76EDD5-3054-41B6-B865-CE9282793F54}|BookStore.csproj|solutionrelative:repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,151 +78,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Books\\Index.cshtml",
-              "RelativeToolTip": "Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwEsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T07:17:07.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwEQAAAAHAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwC4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T07:16:28.789Z",
+              "WhenOpened": "2025-03-12T18:58:49.849Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Details.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Details.cshtml",
-              "ViewState": "AgIAALkAAAAAAAAAAAAqwNkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T06:35:40.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwFgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T01:46:05.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\Interfaces\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\Interfaces\\IBookRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T01:14:51.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T01:13:11.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Create.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwDwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T01:02:01.715Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Views\\Authors\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Views\\Authors\\Edit.cshtml",
               "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwEQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T00:57:59.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T00:57:46.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAANoAAAAAAAAAAAAuwPoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T00:49:17.543Z",
+              "WhenOpened": "2025-03-12T18:35:37.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Views\\Authors\\Index.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAqwGQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T00:46:09.398Z",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:25:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:25:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:24:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:24:40.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:24:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:23:54.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\.TEST\\14\\BookStore\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCYAAAAKAAAAAAAAAA==",
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwKMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T00:43:11.848Z",
+              "WhenOpened": "2025-03-12T18:23:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:23:18.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\C#\\C# STUDING MYSELF\\TaskPracticeNet\\.01\\12.03.25-1\\TaskPracticeNet\\4.BookStore\\BookStore\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T18:12:51.748Z",
               "EditorCaption": ""
             }
           ]

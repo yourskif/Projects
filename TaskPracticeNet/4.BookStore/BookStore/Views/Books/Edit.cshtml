@@ -1,5 +1,9 @@
 ﻿@model BookStore.Models.Book
 
+@{
+    ViewData["Title"] = "Редагувати книгу";
+}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,7 +35,7 @@
                 <span asp-validation-for="Genre" class="text-danger"></span>
             </div>
             <button type="submit" class="btn btn-primary">Зберегти</button>
-            <a asp-action="Index" asp-route-authorId="@Model.AuthorId" class="btn btn-secondary">Назад</a>
+            <a asp-action="Edit" asp-controller="Authors" asp-route-id="@Model.AuthorId" class="btn btn-secondary">Назад</a>
         </form>
     </div>
 
